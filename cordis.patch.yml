@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-sidebar-usage
+      name: '@local/dsh-sidebar-usage'
